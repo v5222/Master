@@ -12,7 +12,7 @@ class List extends Component {
     this.saveModalDetails = this.saveModalDetails.bind(this);
     this.state = {
       requiredItem: 0,
-      "status": "success",
+      "status": "successsss",
       
         "data": [
       
@@ -20,9 +20,9 @@ class List extends Component {
       
             "id": 1,
       
-            "employee_name": "Tiger Nixon",
+            "employee_name": "Tiger Nixonnn",
       
-            "employee_salary": 320800,
+            "employee_salary": 3208000000,
       
             "employee_age": 61,
       

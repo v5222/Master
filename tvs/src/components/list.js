@@ -5,6 +5,9 @@ class List extends Component {
   constructor(props) {
     super(props);
 
+
+    
+
     this.replaceModalData = this.replaceModalData.bind(this);
     this.saveModalDetails = this.saveModalDetails.bind(this);
     this.state = {

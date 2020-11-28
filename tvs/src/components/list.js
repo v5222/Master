@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Modal from './modal.js';
 
-class List extends Component {
+class List1 extends Component {
   constructor(props) {
     super(props);
 

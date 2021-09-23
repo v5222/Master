@@ -58,7 +58,7 @@ class List extends Component {
        <tr>
                                     <td>Id</td>
                                     
-                                    <td>customercode1</td>
+                                    <td>customercode12</td>
                                   
                                     <td>customername</td>
                                 

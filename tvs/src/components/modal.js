@@ -65,7 +65,7 @@ class Modal extends Component {
                         
                         </div> */}
             
-                        
+                        hi
                     </div>
                 </div>
             </div>

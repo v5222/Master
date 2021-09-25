@@ -62,7 +62,7 @@ class List extends Component {
                                   
                                     <td>customername</td>
                                 
-                                    <td>costcenter</td>
+                                    <td>costcenter1222</td>
                                 
                                 </tr>
        </thead>
